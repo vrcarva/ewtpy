@@ -1,4 +1,4 @@
-Empirical Wavelet Transform Python package
+# Empirical Wavelet Transform Python package
 
 Original paper: 
 Gilles, J., 2013. Empirical Wavelet Transform. IEEE Transactions on Signal Processing, 61(16), pp.3999–4010. 
