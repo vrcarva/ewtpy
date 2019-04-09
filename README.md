@@ -1,14 +1,9 @@
-# Empirical Wavelet Transform Python package
+#Empirical Wavelet Transform Python package
 
 Original paper: 
 Gilles, J., 2013. Empirical Wavelet Transform. IEEE Transactions on Signal Processing, 61(16), pp.3999–4010. 
 Available at: http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6522142.
 Original Matlab toolbox: https://www.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms
- 
-@author: Vinícius Rezende Carvalho  
-Programa de pós graduação em engenharia elétrica - PPGEE UFMG  
-Universidade Federal de Minas Gerais - Belo Horizonte, Brazil  
-Núcleo de Neurociências - NNC   
 
 ewtpy performs the Empirical Wavelet Transform of a 1D signal over N scales. Main function is EWT1D:
 
@@ -26,8 +21,29 @@ Some functionalities from J.Gilles' MATLAB toolbox have not been implemented, su
 
 The Example folder contains test signals and scripts
 
+## Installation 
+
+1) Dowload the project from https://github.com/vrcarva/vmdpy, then run "python setup.py install" from the project folder
+
+OR
+
+2) pip install vmdpy
+
+
+## Citation and Contact
+If you find this package useful, we kindly ask you to cite it in your work.   
+Vinicius Carvalho (2019-), Empirical Wavelet Transform in Python  
+
+A paper will soon be submitted and linked here.  
+
+@author: Vinícius Rezende Carvalho
+Programa de pós graduação em engenharia elétrica - PPGEE UFMG
+Universidade Federal de Minas Gerais - Belo Horizonte, Brazil
+Núcleo de Neurociências - NNC 
+
 Any questions, comments, suggestions and/or corrections, please get in contact with vrcarva@ufmg.br
 
+## Example script
 ```python
 #%% Example script
 import numpy as np
@@ -41,8 +57,6 @@ ewt,  mfb ,boundaries = ewtpy.EWT1D(f, N = 3)
 plt.plot(f)
 plt.plot(ewt)
 ```
-
-
 
 
 
