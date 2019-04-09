@@ -27,7 +27,7 @@ The Example folder contains test signals and scripts
 
 OR
 
-2) pip install vmdpy
+2) pip install ewtpy
 
 
 ## Citation and Contact
