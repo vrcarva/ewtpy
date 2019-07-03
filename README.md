@@ -31,10 +31,16 @@ OR
 
 
 ## Citation and Contact
-If you find this package useful, we kindly ask you to cite it in your work.   
-Vinicius Carvalho (2019-), Empirical Wavelet Transform in Python  
+Preprint available at: https://doi.org/10.1101/691055
 
-A paper will soon be submitted and linked here.  
+If you find this package useful, we kindly ask you to cite it in your work.   
+Evaluating three different adaptive decomposition methods for EEG signal seizure detection and classification
+Vinícius Rezende Carvalho, Márcio F.D. Moraes, Antônio Pádua Braga, Eduardo M.A.M. Mendes
+bioRxiv 691055; doi: https://doi.org/10.1101/691055
+
+The final paper will soon be submitted and linked here.  
+
+If you developed a new funcionality or fixed anything in the code, just provide me the corresponding files and which credit should I include in this readme file. 
 
 @author: Vinícius Rezende Carvalho
 Programa de pós graduação em engenharia elétrica - PPGEE UFMG
