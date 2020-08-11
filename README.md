@@ -1,9 +1,8 @@
-#  Empirical Wavelet Transform Python package
+#  ewtpy - Empirical wavelet transform in Python
 
-Original paper: 
-Gilles, J., 2013. Empirical Wavelet Transform. IEEE Transactions on Signal Processing, 61(16), pp.3999–4010. 
-Available at: http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6522142.  
-Original Matlab toolbox: https://www.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms
+Adaptive decomposition of a signal with the EWT [Gilles,2013](https://doi.org/10.1109/TSP.2013.2265222) method
+
+Python translation from the [original Matlab toolbox](https://www.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms).  
 
 ewtpy performs the Empirical Wavelet Transform of a 1D signal over N scales. Main function is EWT1D:
 
@@ -31,23 +30,28 @@ OR
 
 
 ## Citation and Contact
-Preprint available at: https://doi.org/10.1101/691055
+Paper available at https://doi.org/10.1016/j.bspc.2020.102073.  
 
-If you find this package useful, we kindly ask you to cite it in your work.   
-Evaluating three different adaptive decomposition methods for EEG signal seizure detection and classification
-Vinícius Rezende Carvalho, Márcio F.D. Moraes, Antônio Pádua Braga, Eduardo M.A.M. Mendes
-bioRxiv 691055; doi: https://doi.org/10.1101/691055
+If you find this package useful, we kindly ask you to cite it in your work.    
+Vinícius R. Carvalho, Márcio F.D. Moraes, Antônio P. Braga, Eduardo M.A.M. Mendes,
+Evaluating five different adaptive decomposition methods for EEG signal seizure detection and classification,
+Biomedical Signal Processing and Control,
+Volume 62,
+2020,
+102073,
+ISSN 1746-8094,
+https://doi.org/10.1016/j.bspc.2020.102073.
 
-The final paper will soon be submitted and linked here.  
 
 If you developed a new funcionality or fixed anything in the code, just provide me the corresponding files and which credit should I include in this readme file. 
+
+Any questions, comments, suggestions and/or corrections, please get in contact with vrcarva@ufmg.br  
 
 @author: Vinícius Rezende Carvalho
 Programa de pós graduação em engenharia elétrica - PPGEE UFMG
 Universidade Federal de Minas Gerais - Belo Horizonte, Brazil
 Núcleo de Neurociências - NNC 
 
-Any questions, comments, suggestions and/or corrections, please get in contact with vrcarva@ufmg.br
 
 ## Example script
 ```python
