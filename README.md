@@ -1,6 +1,6 @@
 #  ewtpy - Empirical wavelet transform in Python
 
-Adaptive decomposition of a signal with the EWT [Gilles,2013](https://doi.org/10.1109/TSP.2013.2265222) method
+Adaptive decomposition of a signal with the EWT ([Gilles, 2013](https://doi.org/10.1109/TSP.2013.2265222)) method
 
 Python translation from the [original Matlab toolbox](https://www.mathworks.com/matlabcentral/fileexchange/42141-empirical-wavelet-transforms).  
 
