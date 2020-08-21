@@ -22,7 +22,7 @@ The Example folder contains test signals and scripts
 
 ## Installation 
 
-1) Dowload the project from https://github.com/vrcarva/vmdpy, then run "python setup.py install" from the project folder
+1) Dowload the project from https://github.com/vrcarva/ewtpy, then run "python setup.py install" from the project folder
 
 OR
 
