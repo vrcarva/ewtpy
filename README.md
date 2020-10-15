@@ -47,10 +47,10 @@ If you developed a new funcionality or fixed anything in the code, just provide 
 
 Any questions, comments, suggestions and/or corrections, please get in contact with vrcarva@ufmg.br  
 
-@author: Vinícius Rezende Carvalho
-Programa de pós graduação em engenharia elétrica - PPGEE UFMG
-Universidade Federal de Minas Gerais - Belo Horizonte, Brazil
-Núcleo de Neurociências - NNC 
+@author: Vinícius Rezende Carvalho  
+Programa de pós graduação em engenharia elétrica - PPGEE UFMG  
+Universidade Federal de Minas Gerais - Belo Horizonte, Brazil  
+Núcleo de Neurociências - NNC   
 
 
 ## Example script
